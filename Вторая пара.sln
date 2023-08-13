@@ -1,0 +1,85 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Вторая практика. Магазин", "Вторая пара\Вторая практика. Магазин.csproj", "{23114232-AA34-454D-AB22-C3131A91F77D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Оператор if", "Оператор if\Оператор if.csproj", "{F79C8641-371A-484C-8A0C-DCCC809E4291}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Оператор И и ИЛИ", "Оператор И и ИЛИ\Оператор И и ИЛИ.csproj", "{A7A809E7-DAC4-4818-9456-FAB937775C55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch", "Switch\Switch.csproj", "{149D1351-E89A-4E69-97B4-A486F8B1622C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Третья практика пароль", "Третья практика\Третья практика пароль.csproj", "{A05B1A5A-F8E0-4A28-876C-AAA0A7D531A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Четвертая практика. Конвертор валют", "Четвертая практика. Конвертор валют\Четвертая практика. Конвертор валют.csproj", "{419A9965-E586-4AF8-9234-5DE8B4D00E04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Циклы While", "Циклы While\Циклы While.csproj", "{65A2EF7E-E939-4499-8843-E1390F122E52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Циклы for", "Циклы for\Циклы for.csproj", "{C0890693-46DE-4AED-972B-E3C2D1488DBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пятая практика, ввод пароля", "Пятая практика, ввод пароля\Пятая практика, ввод пароля.csproj", "{92ADBD5A-72A9-410C-8171-80824327C095}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Шестая пракитка. Проценты в банке", "Шестая пракитка. Проценты в банке\Шестая пракитка. Проценты в банке.csproj", "{FE1C2358-9B86-4D64-8319-CFBDA4175B2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Седьмая практика, Игроки и урон", "Седьмая практика, Игроки и урон\Седьмая практика, Игроки и урон.csproj", "{7F8D89B4-8FF7-4301-A5C6-BF635EF2A23E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23114232-AA34-454D-AB22-C3131A91F77D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23114232-AA34-454D-AB22-C3131A91F77D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23114232-AA34-454D-AB22-C3131A91F77D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23114232-AA34-454D-AB22-C3131A91F77D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F79C8641-371A-484C-8A0C-DCCC809E4291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F79C8641-371A-484C-8A0C-DCCC809E4291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F79C8641-371A-484C-8A0C-DCCC809E4291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F79C8641-371A-484C-8A0C-DCCC809E4291}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7A809E7-DAC4-4818-9456-FAB937775C55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7A809E7-DAC4-4818-9456-FAB937775C55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7A809E7-DAC4-4818-9456-FAB937775C55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7A809E7-DAC4-4818-9456-FAB937775C55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{149D1351-E89A-4E69-97B4-A486F8B1622C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{149D1351-E89A-4E69-97B4-A486F8B1622C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{149D1351-E89A-4E69-97B4-A486F8B1622C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{149D1351-E89A-4E69-97B4-A486F8B1622C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A05B1A5A-F8E0-4A28-876C-AAA0A7D531A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A05B1A5A-F8E0-4A28-876C-AAA0A7D531A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A05B1A5A-F8E0-4A28-876C-AAA0A7D531A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A05B1A5A-F8E0-4A28-876C-AAA0A7D531A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{419A9965-E586-4AF8-9234-5DE8B4D00E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{419A9965-E586-4AF8-9234-5DE8B4D00E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{419A9965-E586-4AF8-9234-5DE8B4D00E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{419A9965-E586-4AF8-9234-5DE8B4D00E04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65A2EF7E-E939-4499-8843-E1390F122E52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65A2EF7E-E939-4499-8843-E1390F122E52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65A2EF7E-E939-4499-8843-E1390F122E52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65A2EF7E-E939-4499-8843-E1390F122E52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0890693-46DE-4AED-972B-E3C2D1488DBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0890693-46DE-4AED-972B-E3C2D1488DBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0890693-46DE-4AED-972B-E3C2D1488DBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0890693-46DE-4AED-972B-E3C2D1488DBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92ADBD5A-72A9-410C-8171-80824327C095}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92ADBD5A-72A9-410C-8171-80824327C095}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92ADBD5A-72A9-410C-8171-80824327C095}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92ADBD5A-72A9-410C-8171-80824327C095}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE1C2358-9B86-4D64-8319-CFBDA4175B2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE1C2358-9B86-4D64-8319-CFBDA4175B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE1C2358-9B86-4D64-8319-CFBDA4175B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE1C2358-9B86-4D64-8319-CFBDA4175B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F8D89B4-8FF7-4301-A5C6-BF635EF2A23E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F8D89B4-8FF7-4301-A5C6-BF635EF2A23E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F8D89B4-8FF7-4301-A5C6-BF635EF2A23E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F8D89B4-8FF7-4301-A5C6-BF635EF2A23E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3ED0E062-8063-4E20-9C40-D2E6DF13FC96}
+	EndGlobalSection
+EndGlobal
